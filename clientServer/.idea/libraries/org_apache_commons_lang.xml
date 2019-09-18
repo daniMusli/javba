@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org-apache-commons-lang">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/lib/org-apache-commons-lang.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
